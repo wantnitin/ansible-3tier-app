@@ -45,6 +45,7 @@
   vars:
     tomcat_packages:
       - tomcat
+      - java
     tomcat_port: 8080    
     tomcat_service: tomcat
 
